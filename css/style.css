@@ -956,6 +956,20 @@ label {
 
 }
 
+  #myCarousel {
+
+  height: 250px;
+
+ 
+
+  }
+
+.carousel-inner > .item > img {
+  height: 250px;
+  width: 100%;
+
+  }
+
 }
 
 
