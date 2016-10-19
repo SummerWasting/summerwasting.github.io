@@ -724,6 +724,23 @@ RESPONSIVE
  
   }
 
+      #myCarousel {
+
+  width: 100%;
+  clear: both;
+  height: 350px;
+  margin-top: 15px;
+  overflow: hidden;
+  margin-top: 15px;
+
+  }
+
+.carousel-inner > .item > img {
+  height: 350px;
+  width: 100%;
+
+  }
+
   }
 
 /* Extra Small Devices, Phones */ 
