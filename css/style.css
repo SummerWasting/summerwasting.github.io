@@ -906,14 +906,13 @@ label {
 }
 
   iframe {
-    width: 100%;
     height: 300px;
 
   }
 
   #ufo {
 
-    height: 300px;
+   display: none;
   }
 
    #books {
@@ -974,8 +973,6 @@ label {
   #myCarousel {
 
   height: 250px;
-
- 
 
   }
 
