@@ -914,5 +914,31 @@ label {
 
 }
 
+/*---iPhone 5 ---*/
+
+@media only screen and (max-width : 350px) {
+
+  #social h2 {
+    float: left;
+    font-size: 10px;
+      }
+
+  .mark2016 {
+    text-align: center;
+    width: 125px;
+    height: 125px;
+  }
+
+    .caption {
+
+  visibility: hidden;
+}
+
+  a:hover .caption {
+    visibility: hidden;
+  }
+
+}
+
 
 
