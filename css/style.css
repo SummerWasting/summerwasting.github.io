@@ -545,11 +545,17 @@ padding: 5px 0 5px 0;
     width: 75px;
     height: 75px;
     opacity: 1;
-    position: absolute;
+    
     font-size: 14px;
     background-color: #00C02D;
+    margin-bottom: 15px;
 
 
+  }
+
+  #smallSend {
+
+    display: none;
   }
 /**************************
 RESPONSIVE
@@ -729,6 +735,7 @@ RESPONSIVE
   #ships {
   width: 100%;
 }
+
 
 
 }
@@ -925,7 +932,25 @@ label {
     height: 300px;
   }
 
+  #send {
+    display: none;
 
+}
+
+#smallSend {
+
+    margin-bottom: 15px;
+    font-family: 'Raleway', sans-serif;
+    border-radius: 90.3px;
+    background-color: #2EB1F3;
+    width: 50px;
+    height: 50px;
+    opacity: 1;
+    font-size: 8px;
+    cursor: pointer;
+    display: inline;
+
+  }
 
 }
 
