@@ -941,12 +941,12 @@ label {
   #lakeHeading{
 
     height: 200px;
-    background-position: center;
+    background-position: cover;
   }
 
   #lakeScene{
     height: 200px;
-    background-position: center;
+    background-position: cover;
   }
 
   .aboutText {
