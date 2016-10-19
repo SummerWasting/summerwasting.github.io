@@ -938,13 +938,15 @@ label {
     visibility: hidden;
   }
 
-  #kiez{
+  .kiez{
 
     height: 200px;
+    background-position: center;
   }
 
   #lakeScene{
     height: 200px;
+    background-position: center;
   }
 
   .aboutText {
