@@ -837,9 +837,7 @@ label {
     height: 175px;
   }
 
-}
-  
-#myCarousel {
+  #myCarousel {
 
   width: 100%;
   clear: both;
@@ -848,15 +846,19 @@ label {
   overflow: hidden;
   margin-top: 15px;
 
-}
+  }
 
 .carousel-inner > .item > img {
   height: 350px;
   width: 100%;
 
+  }
+  
+
+
 
 
 }
 
 
-}
+
