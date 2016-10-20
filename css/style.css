@@ -779,6 +779,13 @@ RESPONSIVE
 
   }
 
+@media only screen and (max-width : 499px){
+ #social h2 {
+    float: left;
+    font-size: 15px;
+  }
+}
+
 /* Extra Small Devices, Phones */ 
 @media only screen and (max-width : 480px) {
  
@@ -998,7 +1005,7 @@ label {
 
 /*---iPhone 5 ---*/
 
-@media only screen and (max-width : 350px) {
+@media only screen and (max-width : 380px) {
 
   #social h2 {
     float: left;
