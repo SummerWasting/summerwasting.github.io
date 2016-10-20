@@ -1003,6 +1003,17 @@ label {
 
 }
 
+@media only screen and (max-width : 400px){
+
+    .mark2016 {
+    text-align: center;
+    width: 100px;
+    height: 100px;
+  }
+     
+     
+}
+
 /*---iPhone 5 ---*/
 
 @media only screen and (max-width : 380px) {
