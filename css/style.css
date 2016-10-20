@@ -849,7 +849,40 @@ label {
 
 }
 
+@media only screen and (max-width : 419px){
+     
+       #social {
+    height: 46px;
+  }
 
+  #social h2 {
+    float: left;
+    font-size: 15px;
+      }
+
+  #glyphs img {
+   margin-top: 6px;
+  }
+
+  #twit{
+    width: 21.5px;
+    height: 16.5px;
+  }
+  #ins{
+    width: 16.5px;
+    height: 16.5px;
+  }
+  #fb{
+    width: 8.5px;
+    height: 18.5px;
+  }
+  #bc{
+    width: 19px;
+    height: 19px;
+    
+  }
+     
+}
 
 
 /* Custom, iPhone Retina */ 
