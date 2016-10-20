@@ -267,6 +267,12 @@ body {
   padding: 10px;
 }
 
+.centerLinks{
+
+     text-align: center;
+
+}
+
 .glyphicon-chevron-up {
   float: right;
 }
