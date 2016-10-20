@@ -263,6 +263,8 @@ body {
 .aboutText {
   height: 400px;
   overflow: scroll;
+  text-align: left;
+  padding: 10px;
 }
 
 .glyphicon-chevron-up {
@@ -306,7 +308,7 @@ body {
 
 #gallery { 
 
-  background- color: #fff;
+  background-color: #fff;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
