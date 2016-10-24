@@ -749,15 +749,12 @@ RESPONSIVE
        
      }
      
-     #marrickville{
-          text-decoration: none;
+#sayHello {
+    
+float: right;
+left: -50%;
+text-align: left;
      }
-     #whitehouse {
-     text-decoration: none;
-     }
-     #redfern{
-     text-decoration: none;
-  }
      
 }
 @media only screen and (max-width : 565px) {
