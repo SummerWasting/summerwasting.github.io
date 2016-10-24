@@ -718,11 +718,6 @@ RESPONSIVE
     height: 50px;
   }
 
-#ships {
-  width: 50%;
-
-
-  }
 
 #gallery {
   text-align: center;
@@ -753,9 +748,18 @@ RESPONSIVE
   width: 100%;
 }
 
-
+input {
+     width: 100%;
 
 }
+     
+label {
+     width: 100%;
+     }
+     
+ textarea {
+      width: 100%;
+     }
 
 @media only screen and (max-width : 565px) {
  
@@ -975,7 +979,7 @@ label {
 }
 
   iframe {
-    height: 300px;
+    display: none;
 
   }
 
