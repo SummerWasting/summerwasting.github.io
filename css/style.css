@@ -751,8 +751,6 @@ RESPONSIVE
    
   #formBackground {
     background-image: url(../images//originals/clash.jpg);
-    width: 50%;
-    float: right;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
