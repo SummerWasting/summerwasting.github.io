@@ -750,10 +750,8 @@ RESPONSIVE
      }
      
 #sayHello {
-    
-float: right;
-left: -50%;
-text-align: left;
+   width: 100%;
+     text-align: center;
      }
      
 }
