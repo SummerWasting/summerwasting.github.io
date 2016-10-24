@@ -746,21 +746,20 @@ RESPONSIVE
 
   #ships {
   width: 100%;
-}
+       
+     }
      
-   
-  #formBackground {
-      margin-bottom: 15px;
-    background-image: url(../images/originals/clash.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    
-    
+     #marrickville{
+          text-decoration: none;
+     }
+     #whitehouse {
+     text-decoration: none;
+     }
+     #redfern{
+     text-decoration: none;
   }
-
-
+     
+}
 @media only screen and (max-width : 565px) {
  
   a:hover .caption {
